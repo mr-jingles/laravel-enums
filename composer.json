@@ -1,5 +1,5 @@
 {
-    "name": "nasyrov/laravel-enums",
+    "name": "mr-jingles/laravel-enums",
     "type": "library",
     "description": "Laravel package for Enum implementation.",
     "keywords": [
